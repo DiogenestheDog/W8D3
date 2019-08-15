@@ -1,0 +1,35 @@
+/* PHASE 3: Layout */
+
+.content {
+ min-height: 200px;
+ display: flex;
+  border: 1px solid black;
+  background: rebeccapurple;
+  color: white
+
+
+
+}
+
+.content-sidebar {
+
+  min-height: 200px;
+  min-width: 100px;
+  padding-left: 150px;
+  border: 1px solid black;
+  background: royalblue;
+  
+
+}
+
+.content-main {
+min-height: 200px;
+  min-width: 100px;
+border: 1px solid black;
+background: cyan;
+ 
+
+}
+
+
+
